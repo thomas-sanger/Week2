@@ -4,13 +4,15 @@ This project uses a JavaScript event handler `window.onload` to call a function 
 
 ## Requirements
 
-Create a new folder called Week2
-Open the folder in Visual Studio Code
-Create a home.html page
-Create a css folder and a file in it with a name of styles.css
-Create a js folder and a file called main.js within the folder
-On the html page, in the head, add a reference to your css file and a script tag referencing your JavaScript file
-Add an h1 to the body and center the tag in css
-Change the background color of the page in css to black and the forecolor to white
-In JavaScript, when the page loads then write to the page a list of your 5 favorite foods
-Log to the Console a short message about how you feel about JavaScript so far
+<ol>
+<li>Create a new folder called Week2</li>
+<li>Open the folder in Visual Studio Code</li>
+<li>Create a home.html page</li>
+<li>Create a css folder and a file in it with a name of styles.css</li>
+<li>Create a js folder and a file called main.js within the folder</li>
+<li>On the html page, in the head, add a reference to your css file and a script tag referencing your JavaScript file</li>
+<li>Add an h1 to the body and center the tag in css</li>
+<li>Change the background color of the page in css to black and the forecolor to white</li>
+<li>In JavaScript, when the page loads then write to the page a list of your 5 favorite foods</li>
+<li>Log to the Console a short message about how you feel about JavaScript so far</li>
+</ol>
