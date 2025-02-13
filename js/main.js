@@ -9,7 +9,7 @@ window.onload = function () {
     "Chili on a cold day",
     "Broccoli cheddar soup from Panera",
     "Homemade grilled cheese",
-    "Anything that my fiance cooks (because I don't have to ;) )",
+    "Anything that my fiance cooks ( because I don't have to ;) )",
   ];
 
   // Loop thorugh each item in the array
