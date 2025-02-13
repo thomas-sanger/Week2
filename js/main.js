@@ -5,11 +5,11 @@ window.onload = function () {
 
   // Define list items
   const items = [
-    "My Grandad's Fish Stew",
+    "My grandad's fish stew",
     "Chili on a cold day",
-    "Broccoli Cheaddar soup from Panera",
-    "Homemade Grilled Cheese",
-    "Anything that my fiance cooks (because I don't have to ';'')'",
+    "Broccoli cheddar soup from Panera",
+    "Homemade grilled cheese",
+    "Anything that my fiance cooks (because I don't have to ;) )",
   ];
 
   // Loop thorugh each item in the array
@@ -25,3 +25,5 @@ window.onload = function () {
   //Append the list to the body of the html file
   document.body.appendChild(ul);
 };
+
+console.log("JavaScript is really fun!");

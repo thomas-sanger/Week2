@@ -1,9 +1,12 @@
 body {
+  text-align: center;
+  margin: auto;
   background-color: black;
   color: white;
 }
 
-#header h1 {
-  text-align: center;
-  /*margin: auto;*/
+ul {
+  list-style-position: inside;
+  text-align: left;
+  display: inline-block;
 }
