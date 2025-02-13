@@ -1,6 +1,6 @@
 # Week 2 Project
 
-This project uses a JavaScript event handler `window.onload` to call a function that writes my list of favorite foods upon the successful loading of the webpage. Finally it writes a log message to the console after the function is called.
+This project uses a JavaScript event handler, `window.onload`, to call a function. The function writes my list of favorite foods upon the successful loading of the webpage. Finally, it writes a log message to the console after the function is called.
 
 ## Requirements
 
